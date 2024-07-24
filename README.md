@@ -25,6 +25,7 @@ By querying VirusTotal for web addresses in emails, you can find out if the anti
 ## Hands-on-labs
 ### Lab1
 SOC146 - Phishing Mail Detected - Excel 4.0 Macros
+![image](https://github.com/user-attachments/assets/0ae2a936-57c4-4ce1-97b7-987976ebaecd)
 
 
 
