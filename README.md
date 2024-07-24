@@ -27,6 +27,12 @@ By querying VirusTotal for web addresses in emails, you can find out if the anti
 SOC146 - Phishing Mail Detected - Excel 4.0 Macros
 ![image](https://github.com/user-attachments/assets/0ae2a936-57c4-4ce1-97b7-987976ebaecd)
 
+![image](https://github.com/user-attachments/assets/0bb19898-e9b9-4567-b573-f438f3e51afb)
+
+![image](https://github.com/user-attachments/assets/65ed24bd-5edd-48d1-808c-b84e4467bece)
+
+
+The user who accessed the email and installed the malicious file has been effectively contained.
 
 
 ### Lab2
