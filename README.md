@@ -38,3 +38,9 @@ The user who accessed the email and installed the malicious file has been effect
 ### Lab2
   
 SOC114 - Malicious Attachment Detected - Phishing Alert
+![image](https://github.com/user-attachments/assets/d1f6fb46-de68-4d7c-a76f-1ea688037838)
+![image](https://github.com/user-attachments/assets/05407fb7-b626-4635-befa-11222e7ef5b4)
+![image](https://github.com/user-attachments/assets/008c2453-6458-47ea-be5e-80591627fd07)
+
+
+
